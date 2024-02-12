@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    scroll-behavior: smooth;
+    direction: rtl;
+}
+
+body{
+    background-image: url(https://i.vimeocdn.com/video/804733716-c682cb00df14cbfc44b2878902b06153301a4b617b365b9f1f4c6b3cfb5041b5-d?f=webp);
+    background-size: cover;
+    background-position: center;
+    
+}
